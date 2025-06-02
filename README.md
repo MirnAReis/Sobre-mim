@@ -7,7 +7,9 @@ Esse repositório é o meu cantinho de criação — onde coloco meus projetos, 
 
 
 🎓 Estudante de Engenharia de Software - PUC MINAS  
+
 📚 Praticando programação com foco em lógica e desenvolvimento de sistemas
+
 📢 Comunicação e tecnologia caminham juntas no meu propósito!
 
 ## 🛠️ Tecnologias que estou estudando
